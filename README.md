@@ -1,6 +1,6 @@
 # Marketing-A-B-Testing-Analysis
 
-This project analyzes an A/B testing dataset from a marketing campaign to determine the effectiveness of advertisements in driving conversions. The analysis involves hypothesis testing, effect size calculation, confidence intervals, and visualizations.
+This project analyzes an A/B testing dataset from a marketing campaign to determine the effectiveness of advertisements in driving conversions. The analysis involves hypothesis testing, effect size calculation, confidence intervals and visualizations.
 
 
 ## Introduction
@@ -10,12 +10,12 @@ Marketing companies often run A/B tests to evaluate the success of their campaig
 ## Dataset
 The dataset used for this analysis is sourced from Kaggle and contains the following fields:
 
-`user id`: Unique identifier for each user
-`test group`: Indicates if the user saw an ad or a PSA
-`converted`: Whether the user made a purchase (True/False)
-`total ads`: The number of ads the user saw
-`most ads day`: The day of the week when the user saw the most ads
-`most ads hour`: The hour of the day when the user saw the most ads
+`user id`: Unique identifier for each user.
+`test group`: Indicates if the user saw an ad or a PSA.
+`converted`: Whether the user made a purchase (True/False).
+`total ads`: The number of ads the user saw.
+`most ads day`: The day of the week when the user saw the most ads.
+`most ads hour`: The hour of the day when the user saw the most ads.
 
 ## Project Workflow
 
